@@ -1,3 +1,7 @@
+body{
+    width: 654px;
+}
+
 h2{
     background-color: green;
     border:5px solid darkgreen;
@@ -7,8 +11,9 @@ h2{
 }
 
 img{
-    border: 1px solid black;
+    border: solid black;
     border-radius: 15px ;
+    border-style: double;
 }
 
 h4{
@@ -21,7 +26,8 @@ h4{
 h3{
     color: blue;
 }
-    
+
+
     
     
     
