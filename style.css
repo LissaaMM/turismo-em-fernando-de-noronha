@@ -4,6 +4,7 @@ h2{
     border-radius: 10px;
     color: white;
     height: 30px;
+    width: 654px;
 }
 
 img{
@@ -16,7 +17,8 @@ h4{
     border: 5px solid darkgoldenrod;
     border-radius: 10px;
     background-color: goldenrod;
-   height: 25px;
+    height: 25px;
+    width: 654px;
 }
 
 h3{
